@@ -1,15 +1,15 @@
 # Hi, I’m @cpatman; <br>
-
-# I’m interested in \newline &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;software development and applied mathematics.
-  ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp My reading/research interests can be roughly categorized as:
+# I’m interested in: <p> <small>software development and applied mathematics</small>.
+  ### &nbsp;&nbsp;&nbsp;&nbsp; My reading/research interests can be roughly categorized as:
   <ul>
-     <li>Operations Research, Model Building, Simulation;</li>
-     <li>Mathematical Control, Optimization, Approximation & Estimation;</li>
-     <li>Machine Learning, Neural Nets, Pattern Directed Inference Systems;</li>
-     <li>Number Theory, Probability, Dynamical Systems (especially those things at the intersection with Random Matrices).</li>
+     <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Operations Research, Model Building, Simulation;</li>
+     <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mathematical Control, Optimization, Approximation & Estimation;</li>
+     <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Machine Learning, Neural Nets, Pattern Directed Inference Systems;</li>
+     <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Number Theory, Probability, Dynamical Systems (especially those things at the intersection with Random Matrices).</li>
   </ul>
+  </p>
   
-  ___
+- - - -
   
 
  
